@@ -1,0 +1,10 @@
+clone
+push 推
+
+pull 拉(fetch + merge)
+
+checkout
+
+add . 所有的添加到 暂存区
+
+commit
